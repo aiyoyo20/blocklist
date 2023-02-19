@@ -1,0 +1,213 @@
+! 2023-02-13 https://blog.csdn.net
+blog.csdn.net##.common-nps-box.recommend-nps-box
+blog.csdn.net##.blog-footer-bottom
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.blog_container_aside
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.more-toolbox-new
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.recommend-box.second-recommend-box
+blog.csdn.net##.template-box
+blog.csdn.net##.csdn-side-toolbar
+
+! 2023-02-13 https://www.baidu.com
+www.baidu.com###content_right
+www.baidu.com###u
+www.baidu.com##.c-color-t.c-font-medium.title-text
+www.baidu.com##.s-bottom-space
+www.baidu.com###hotsearch-content-wrapper
+www.baidu.com##.s-hotsearch-title
+www.baidu.com##.s-isindex-wrap.s-top-right
+www.baidu.com##.s-isindex-wrap.s-top-left-new
+www.baidu.com##.aging-entry.side-entry
+www.baidu.com##.s-isindex-wrap.s-bottom-layer
+||dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/qrcode/qrcode@2x-daf987ad02.png$image
+
+! 2023-02-13 https://zhidao.baidu.com
+zhidao.baidu.com##.nav-menu-layout
+zhidao.baidu.com##.qb-search-box.search-box-new-all.line.search-box-new
+zhidao.baidu.com##.aside-list
+zhidao.baidu.com##.wgt-header-title
+zhidao.baidu.com##.nav-show-control
+zhidao.baidu.com##.wgt-push
+zhidao.baidu.com##.footer-wp
+zhidao.baidu.com##.jt1128
+||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
+||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
+zhidao.baidu.com##.aria-div
+zhidao.baidu.com##.wgt-union-bottom.line.last.mod-shadow.wgt-bottom-union
+zhidao.baidu.com##.mod-noshadow.cms-slide-lazy.cms-slide
+||iknowpc.bdimg.com/static/common/widget/js/logic/jump-top/img/pgcApplyGuide.004403c.png$image
+||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
+||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
+
+! 2023-02-13 https://cloud.tencent.com
+cloud.tencent.com##.com-2-footer.J-footer
+cloud.tencent.com##.detail-page-desc
+cloud.tencent.com##.com-event-panel-inner
+cloud.tencent.com##.layout-side
+cloud.tencent.com##.stack-over-detail-widget.com-widget-global
+cloud.tencent.com##.stack-over-detail-feedback
+
+! 2023-02-13 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Recommendations-Main
+zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
+zhuanlan.zhihu.com##.css-1ynzxqw
+zhuanlan.zhihu.com##.Post-SideActions
+
+! 2023-02-13 https://jingyan.baidu.com
+jingyan.baidu.com##header
+jingyan.baidu.com##.nav
+jingyan.baidu.com##.main-content-bottom
+jingyan.baidu.com##.wgt-footer
+jingyan.baidu.com##.wgt-like
+jingyan.baidu.com##.wgt-barrier-free
+jingyan.baidu.com##.wrp-exp-share
+jingyan.baidu.com##.main-aside
+||exp-new.bdstatic.com/static/exp-pc/common-jquery/widget/task-panel/img/entrance_1babf89.png$image
+jingyan.baidu.com##.prompt
+
+! 2023-02-13 https://segmentfault.com
+segmentfault.com##.border-top.font-size-14.py-5.bg-white.d-sm-block.d-none
+segmentfault.com##.card.mt-4
+segmentfault.com##.sticky-inner-wrapper
+segmentfault.com##.navbar-light.navbar-expand-lg.navbar.animate__faster.animate__fadeInDown.animate__animated.sticky-top.shadow-sm.bg-white
+segmentfault.com##.functional-area-left2.pt-5.justify-content-center.d-xl-flex.d-none.functional-area-left.sticky-top.sticky-wrap
+
+! 2023-02-13 https://toutiao.io
+toutiao.io##.featured
+toutiao.io##footer
+
+! 2023-02-13 https://fanyi.baidu.com
+||fanyi-cdn.cdn.bcebos.com/webStatic/translation/asset/background.3267e97d.jpg$image
+||fanyi-cdn.cdn.bcebos.com/webStatic/translation/asset/close.27070909.png$image
+fanyi.baidu.com##.cleafix.footer
+fanyi.baidu.com###header
+
+! 2023-02-16 https://www.jianshu.com
+www.jianshu.com##.ant-affix
+www.jianshu.com##._2oDcyf
+www.jianshu.com##.VYwngI
+www.jianshu.com##._2OwGUo
+www.jianshu.com##._3Pnjry
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+www.jianshu.com##section.ouvJEz:nth-of-type(3)
+www.jianshu.com###note-page-comment
+www.jianshu.com##footer
+www.jianshu.com##.d0hShY
+www.jianshu.com##._13lIbp
+
+! 2023-02-16 https://www.zhihu.com
+www.zhihu.com##.ZVideo-sideColumnWeb.ZVideo-sideColumn
+www.zhihu.com##.App > div
+www.zhihu.com##.css-1cd8nnu
+
+! 2023-02-10 https://www.baidu.com
+www.baidu.com###s-hotsearch-wrapper
+www.baidu.com###s-top-left
+www.baidu.com##.s-isindex-wrap.s-top-right
+www.baidu.com##.s-isindex-wrap.s-bottom-layer
+www.baidu.com##.aging-entry-inner
+www.baidu.com###s_side_wrapper
+www.baidu.com##.cr-offset
+www.baidu.com###u
+www.baidu.com##.foot-container_2X1Nt
+
+! 2023-02-10 https://cloud.tencent.com
+cloud.tencent.com##.com-2-footer.J-footer > .com-2-footer-inner
+cloud.tencent.com##.com-side-public.com-2-section
+cloud.tencent.com##.stack-over-detail-feedback
+cloud.tencent.com##.com-2-footer.J-footer
+cloud.tencent.com##.detail-page-desc
+||ask.qcloudimg.com/raw/yehe-fbd3d4418/lccstsydp0.png$image
+cloud.tencent.com##.com-event-panel-inner
+
+! 2023-02-10 https://developer.aliyun.com
+developer.aliyun.com##.ace-view-center
+developer.aliyun.com##.developer-common-fixed-box
+developer.aliyun.com###action-btns
+
+! 2023-02-10 https://blog.csdn.net
+||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fsmstong%2Farticle%2Fdetails%2F20831813&iframe=true&newframe=true&version=loginv3$subdocument
+blog.csdn.net##.common-nps-box.recommend-nps-box
+blog.csdn.net##.blog-footer-bottom
+blog.csdn.net##.template-box
+blog.csdn.net##.common-nps-box.aside-box
+blog.csdn.net###asideArchive
+blog.csdn.net###asideNewComments
+blog.csdn.net##.flexible-box.aside-box
+blog.csdn.net###asideHotArticle
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.left-toolbox
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box > div.clearfix.type_blog.recommend-item-box > .content-box
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.recommend-box.second-recommend-box > .clearfix.type_blog.recommend-item-box > .content-box
+blog.csdn.net##.csdn-side-toolbar
+
+! 2023-02-10 https://www.saoniuhuo.com
+www.saoniuhuo.com##div.module-box:nth-of-type(5)
+www.saoniuhuo.com##.klg-footer
+www.saoniuhuo.com##div.module-box:nth-of-type(4)
+
+! 2023-02-10 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Recommendations-Main
+zhuanlan.zhihu.com##.PostIndex-Contributions
+zhuanlan.zhihu.com##.css-1ynzxqw
+zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
+zhuanlan.zhihu.com##.ContentItem-actions
+zhuanlan.zhihu.com##.Post-SideActions
+
+! 2023-02-10 https://www.jianshu.com
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+www.jianshu.com###note-page-comment
+||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
+www.jianshu.com##._13lIbp
+||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
+www.jianshu.com##._3Pnjry
+www.jianshu.com##header
+www.jianshu.com##._2OwGUo
+www.jianshu.com##footer
+||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
+
+! 2023-02-10 https://www.saoniuhuo.com
+www.saoniuhuo.com##.klg-right-area > div.module-box > .module-body
+www.saoniuhuo.com##.klg-right-area
+
+! 2023-02-16 https://www.o0310o.com
+www.o0310o.com##.fr.side
+www.o0310o.com##.bg-dark.footer
+www.o0310o.com##.fadeInDown.wow.box-show.part-mor
+www.o0310o.com##.fadeInDown.wow.entry-next-prev
+||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
+||www.o0310o.com/zb_users/theme/hopelee/style/images/single-bg.jpg$image
+||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
+||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
+||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
+www.o0310o.com###comments
+www.o0310o.com##.entry-footer
+www.o0310o.com##.statement
+www.o0310o.com##.top-header
+www.o0310o.com##.single-bar
+
+! 2023-02-16 https://www.xuecaijie.com
+www.xuecaijie.com##.page-container > .blocks
+www.xuecaijie.com##.col-side.col-md-3
+www.xuecaijie.com##div.blocks.row:nth-of-type(3)
+www.xuecaijie.com###commentBox
+www.xuecaijie.com##.page-container > .clearfix
+
+! 2023-02-16 https://blog.csdn.net
+blog.csdn.net##.blog_container_aside
+blog.csdn.net###blogColumnPayAdvert
+
+! 2023-02-16 https://www.jianshu.com
+www.jianshu.com##section.ouvJEz:nth-of-type(3)
+www.jianshu.com##.d0hShY
+
+! 2023-02-16 https://iymark.com
+iymark.com##.abs.sidebar
+iymark.com##.sidebar
+iymark.com##.width-footer-bar.footer
+
+
