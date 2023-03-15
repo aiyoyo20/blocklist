@@ -210,4 +210,75 @@ iymark.com##.abs.sidebar
 iymark.com##.sidebar
 iymark.com##.width-footer-bar.footer
 
+! 2023-02-26 https://blog.51cto.com
+blog.51cto.com##section.mb30.common-spacing.common-section
+blog.51cto.com##.Footer
+blog.51cto.com##.action-aside-left.action-aside
+blog.51cto.com##.minmenu
+blog.51cto.com##.Header
+blog.51cto.com##.comment-box.mb30.common-spacing.common-section
+blog.51cto.com##.lists.clearfix
+blog.51cto.com##.action-box
+blog.51cto.com##.detail-content-right
+blog.51cto.com##.home-top
 
+! 2023-02-26 https://developer.aliyun.com
+developer.aliyun.com##.ace-render-3.componenet-wrap
+developer.aliyun.com##.article-feed
+developer.aliyun.com##.article-comment
+developer.aliyun.com###right-box
+developer.aliyun.com##.developer-nav
+developer.aliyun.com##.article-copyright
+developer.aliyun.com##.article-tags
+developer.aliyun.com##.group-list
+developer.aliyun.com##.article-keywords
+developer.aliyun.com##.demo
+developer.aliyun.com##.balloon-box
+
+! 2023-02-27 https://huaweicloud.csdn.net
+huaweicloud.csdn.net##.org-footer
+huaweicloud.csdn.net##.more-article
+huaweicloud.csdn.net##.article-interact-bar.toolbar-wrapper
+huaweicloud.csdn.net##.user-desc-fix.user-desc
+huaweicloud.csdn.net##.org-header-fix.org-header
+
+! 2023-03-13 https://juejin.cn
+juejin.cn##.main-header-box
+juejin.cn##.article-suspended-panel
+juejin.cn##.category-course-recommend.wrap
+juejin.cn##.article-end
+juejin.cn##.extension
+juejin.cn##.sidebar
+juejin.cn##.has-extension-banner.suspension-panel
+
+! 2023-03-13 https://www.awyerwu.com
+www.awyerwu.com###mza-bar
+www.awyerwu.com###sidebar
+www.awyerwu.com###footer
+www.awyerwu.com##div:nth-of-type(5)
+www.awyerwu.com###recommend
+www.awyerwu.com###related
+||www.awyerwu.com/zb_users/upload/2023/01/tx-1040X100.jpg$image
+www.awyerwu.com##.ishare.share-component
+
+! 2023-03-13 https://www.bing.com
+www.bing.com##.show_footer.dynamic_footer.footer
+www.bing.com##bing-homepage-feed
+
+! 2023-03-15 https://www.77169.net
+www.77169.net##.header
+www.77169.net##.sidebar
+www.77169.net##.footer
+
+! 2023-03-15 https://www.qiniu.com
+www.qiniu.com###comp-footer-container
+www.qiniu.com##.hotKeywords___1sLNq
+www.qiniu.com##.issues___1pXuH
+www.qiniu.com##.hotProducts___3nawe.main___1jkEv
+www.qiniu.com##.tips___2_NQf
+www.qiniu.com###comp-header-container
+www.qiniu.com##.extra___D_tNu
+
+! 2023-03-15 https://news.sangniao.com
+news.sangniao.com##.news-content > .screen-main > .inner-lsmrs > .sidebarL
+news.sangniao.com##.this--fixed.include--top
