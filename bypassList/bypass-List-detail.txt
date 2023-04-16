@@ -310,7 +310,25 @@ www.aliyun.com
 www.aliyundrive.com
 yqh.aliyun.com
 
-todo # devpress.csdn.net
+# devpress.csdn.net
+aistudio.csdn.net
+bbs.csdn.net
+blog.csdn.net
+csdnimg.cn
+devbit.csdn.net
+dev.csdn.net
+devpress.csdnimg.cn
+devpress.csdn.net
+download.csdn.net
+eolink.blog.csdn.net
+ev.csdn.net
+event.csdn.net
+g.csdnimg.cn
+img-blog.csdnimg.cn
+marketing.csdn.net
+passport.csdn.net
+profile-avatar.csdnimg.cn
+profile.csdnimg.cn
 
 # docs.oracle.com
 blogs.oracle.com
