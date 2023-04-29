@@ -21,7 +21,6 @@ www.baidu.com##.s-isindex-wrap.s-top-right
 www.baidu.com##.s-isindex-wrap.s-top-left-new
 www.baidu.com##.aging-entry.side-entry
 www.baidu.com##.s-isindex-wrap.s-bottom-layer
-||dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/qrcode/qrcode@2x-daf987ad02.png$image
 
 ! 2023-02-13 https://zhidao.baidu.com
 zhidao.baidu.com##.nav-menu-layout
@@ -32,14 +31,9 @@ zhidao.baidu.com##.nav-show-control
 zhidao.baidu.com##.wgt-push
 zhidao.baidu.com##.footer-wp
 zhidao.baidu.com##.jt1128
-||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
-||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
 zhidao.baidu.com##.aria-div
 zhidao.baidu.com##.wgt-union-bottom.line.last.mod-shadow.wgt-bottom-union
 zhidao.baidu.com##.mod-noshadow.cms-slide-lazy.cms-slide
-||iknowpc.bdimg.com/static/common/widget/js/logic/jump-top/img/pgcApplyGuide.004403c.png$image
-||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
-||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
 
 ! 2023-02-13 https://cloud.tencent.com
 cloud.tencent.com##.com-2-footer.J-footer
@@ -64,7 +58,6 @@ jingyan.baidu.com##.wgt-like
 jingyan.baidu.com##.wgt-barrier-free
 jingyan.baidu.com##.wrp-exp-share
 jingyan.baidu.com##.main-aside
-||exp-new.bdstatic.com/static/exp-pc/common-jquery/widget/task-panel/img/entrance_1babf89.png$image
 jingyan.baidu.com##.prompt
 
 ! 2023-02-13 https://segmentfault.com
@@ -79,9 +72,6 @@ toutiao.io##.featured
 toutiao.io##footer
 
 ! 2023-02-13 https://fanyi.baidu.com
-||fanyi-cdn.cdn.bcebos.com/webStatic/translation/asset/background.3267e97d.jpg$image
-||fanyi-cdn.cdn.bcebos.com/webStatic/translation/asset/close.27070909.png$image
-fanyi.baidu.com##.cleafix.footer
 fanyi.baidu.com###header
 
 ! 2023-02-16 https://www.jianshu.com
@@ -119,7 +109,6 @@ cloud.tencent.com##.com-side-public.com-2-section
 cloud.tencent.com##.stack-over-detail-feedback
 cloud.tencent.com##.com-2-footer.J-footer
 cloud.tencent.com##.detail-page-desc
-||ask.qcloudimg.com/raw/yehe-fbd3d4418/lccstsydp0.png$image
 cloud.tencent.com##.com-event-panel-inner
 
 ! 2023-02-10 https://developer.aliyun.com
@@ -128,7 +117,6 @@ developer.aliyun.com##.developer-common-fixed-box
 developer.aliyun.com###action-btns
 
 ! 2023-02-10 https://blog.csdn.net
-||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fsmstong%2Farticle%2Fdetails%2F20831813&iframe=true&newframe=true&version=loginv3$subdocument
 blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.blog-footer-bottom
 blog.csdn.net##.template-box
@@ -161,14 +149,10 @@ zhuanlan.zhihu.com##.Post-SideActions
 ! 2023-02-10 https://www.jianshu.com
 www.jianshu.com##section.ouvJEz:nth-of-type(2)
 www.jianshu.com###note-page-comment
-||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
 www.jianshu.com##._13lIbp
-||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
-www.jianshu.com##._3Pnjry
 www.jianshu.com##header
 www.jianshu.com##._2OwGUo
 www.jianshu.com##footer
-||s.p.twlcyc.cn/vzypw?eql=kgd&pmq=fdd&lq=_jlkfiee&a1=fjljhmldhl&a2=glklllfkhe&tbc=NZZVYFgnFfsFfs...FDPOGTYN_FDIUSFfsVFfsiLhkgGkgjIKf&lk=g&xiz=egjjakjl&ivb=d&dmz=dfdj&lqa=d&lzq=d&xzwb=f&izq=f&xa=edmfiaeki&xka=egidajmh&xqa=EeaEe&lnb=f&liq=h&mfxa=eedfle,eedfkm,eedfkd,eedfik,eedddm,eejdel,eeeddd,eeddee&xaa=egidaefdhf&lbu=u6zyD2156&xaq=mjlKlgiegKkfglKj&nb=e&mkl=e&kmk=76sEl&myql=JHkfGLGHddeddHmGdddddddfjgKiJGmH&bxz=ejkjddlfffjdk&swt=1$subdocument
 
 ! 2023-02-10 https://www.saoniuhuo.com
 www.saoniuhuo.com##.klg-right-area > div.module-box > .module-body
@@ -179,11 +163,6 @@ www.o0310o.com##.fr.side
 www.o0310o.com##.bg-dark.footer
 www.o0310o.com##.fadeInDown.wow.box-show.part-mor
 www.o0310o.com##.fadeInDown.wow.entry-next-prev
-||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
-||www.o0310o.com/zb_users/theme/hopelee/style/images/single-bg.jpg$image
-||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
-||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
-||www.o0310o.com/zb_users/theme/hopelee/style/images/top-fr-bg.png$image
 www.o0310o.com###comments
 www.o0310o.com##.entry-footer
 www.o0310o.com##.statement
@@ -258,7 +237,6 @@ www.awyerwu.com###footer
 www.awyerwu.com##div:nth-of-type(5)
 www.awyerwu.com###recommend
 www.awyerwu.com###related
-||www.awyerwu.com/zb_users/upload/2023/01/tx-1040X100.jpg$image
 www.awyerwu.com##.ishare.share-component
 
 ! 2023-03-13 https://www.bing.com
@@ -282,3 +260,48 @@ www.qiniu.com##.extra___D_tNu
 ! 2023-03-15 https://news.sangniao.com
 news.sangniao.com##.news-content > .screen-main > .inner-lsmrs > .sidebarL
 news.sangniao.com##.this--fixed.include--top
+
+! 2023-03-16 https://xie.infoq.cn
+xie.infoq.cn##.scene
+xie.infoq.cn##.layout-footer-wrap
+xie.infoq.cn##.article-fixed-wrap
+xie.infoq.cn##.layout-header-wrap
+
+! 2023-03-18 https://baike.baidu.com
+baike.baidu.com###J-wgt-footer-main
+baike.baidu.com##.after-content
+baike.baidu.com##.cmn-clearfix.topbar
+baike.baidu.com##.pc-header-new.header-wrapper > .header
+baike.baidu.com##.lemmaWgt-searchHeader
+baike.baidu.com##.new-side-share.new-bdsharebuttonbox
+
+! 2023-03-31 http://www.zztongyun.com
+www.zztongyun.com##.pph.sd
+
+! 2023-04-04 https://www.baidu.com
+www.baidu.com###s_wrap
+
+! 2023-04-04 https://www.51cto.com
+www.51cto.com##.article-right
+www.51cto.com##.po_top.components-common-suspension
+www.51cto.com##.suspension-pendant_r
+www.51cto.com##.left-window
+www.51cto.com##.footer.components-common-footer
+www.51cto.com##.relevant-recommend
+www.51cto.com##.article-left > .share
+www.51cto.com##.fixednavtop.home-top
+www.51cto.com##.navFixed.secondNav
+www.51cto.com##.header-box
+www.51cto.com##.secondNavCover.components-child-nav
+
+! 2023-04-08 https://www.jb51.net
+www.jb51.net###footer
+www.jb51.net##.clearfix.xgcomm
+
+! 2023-04-23 https://www.jianshu.com
+||cdn-file-ssl-wan.ludashi.com^$all
+||pp.chuzushijian.cn^$all
+www.jianshu.com##body > div:nth-child(12) > div:nth-child(1)
+www.jianshu.com##body > div:nth-child(13) > div:nth-child(1)
+www.jianshu.com##body > div:nth-child(14)
+www.jianshu.com###note
