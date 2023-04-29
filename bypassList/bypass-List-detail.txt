@@ -1940,3 +1940,7 @@ www.zhihu.com
 zhihu-web-analytics.zhihu.com
 zhstatic.zhihu.com
 zhuanlan.zhihu.com
+
+# cn.vuejs.org
+cn.vuejs.org
+sponsors.vuejs.org
