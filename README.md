@@ -12,3 +12,6 @@
 `element-Blocklist` 是针对网站的元素屏蔽，搭配屏蔽广告的插件使用。去掉自增广告，一些网站的内容推广，无用信息（例如百度热搜），或者单纯是去掉页面的多余元素，使其呈现纯阅读模式。
 
 `bypass-List` 因为需要由原来的`bypass-List.txt`拓展成一个小项目。
+
+`link-Blocklist_hider.txt` 是类似于 uBblackList 插件的工具，但不同的是它是一个油猴脚本，并且支持 baidu 的屏蔽，uBlackList 不能。脚本名 Google Hit Hider。
+
