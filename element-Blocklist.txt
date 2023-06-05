@@ -43,11 +43,6 @@ cloud.tencent.com##.layout-side
 cloud.tencent.com##.stack-over-detail-widget.com-widget-global
 cloud.tencent.com##.stack-over-detail-feedback
 
-! 2023-02-13 https://zhuanlan.zhihu.com
-zhuanlan.zhihu.com##.Recommendations-Main
-zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
-zhuanlan.zhihu.com##.css-1ynzxqw
-zhuanlan.zhihu.com##.Post-SideActions
 
 ! 2023-02-13 https://jingyan.baidu.com
 jingyan.baidu.com##header
@@ -86,11 +81,6 @@ www.jianshu.com###note-page-comment
 www.jianshu.com##footer
 www.jianshu.com##.d0hShY
 www.jianshu.com##._13lIbp
-
-! 2023-02-16 https://www.zhihu.com
-www.zhihu.com##.ZVideo-sideColumnWeb.ZVideo-sideColumn
-www.zhihu.com##.App > div
-www.zhihu.com##.css-1cd8nnu
 
 ! 2023-02-10 https://www.baidu.com
 www.baidu.com###s-hotsearch-wrapper
@@ -137,14 +127,6 @@ blog.csdn.net##.csdn-side-toolbar
 www.saoniuhuo.com##div.module-box:nth-of-type(5)
 www.saoniuhuo.com##.klg-footer
 www.saoniuhuo.com##div.module-box:nth-of-type(4)
-
-! 2023-02-10 https://zhuanlan.zhihu.com
-zhuanlan.zhihu.com##.Recommendations-Main
-zhuanlan.zhihu.com##.PostIndex-Contributions
-zhuanlan.zhihu.com##.css-1ynzxqw
-zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
-zhuanlan.zhihu.com##.ContentItem-actions
-zhuanlan.zhihu.com##.Post-SideActions
 
 ! 2023-02-10 https://www.jianshu.com
 www.jianshu.com##section.ouvJEz:nth-of-type(2)
@@ -298,6 +280,8 @@ www.51cto.com##.secondNavCover.components-child-nav
 www.jb51.net###footer
 www.jb51.net##.clearfix.xgcomm
 
+
+
 ! 2023-04-23 https://www.jianshu.com
 ||cdn-file-ssl-wan.ludashi.com^$all
 ||pp.chuzushijian.cn^$all
@@ -305,3 +289,28 @@ www.jianshu.com##body > div:nth-child(12) > div:nth-child(1)
 www.jianshu.com##body > div:nth-child(13) > div:nth-child(1)
 www.jianshu.com##body > div:nth-child(14)
 www.jianshu.com###note
+
+! 2023-05-10 https://www.jb51.net
+www.jb51.net###topbar
+www.jb51.net###nav
+www.jb51.net##.main-right
+www.jb51.net###ewm
+www.jb51.net##.tipsa_ds
+www.jb51.net###txtlink
+www.jb51.net##.clearfix.pt10
+www.jb51.net###header
+||files.jb51.net/image/jb51zsxq820_1.png$image
+www.jb51.net###right-share
+
+! 2023-05-11 https://blog.csdn.net
+blog.csdn.net##iframe
+
+! 2023-05-14 https://www.finclip.com
+||www.finclip.com/news/zb_users/upload/2022/11/tanchuang1.jpg$image
+www.finclip.com##.sidebar
+
+! 2023-05-26 https://post.smzdm.com
+post.smzdm.com###footer
+post.smzdm.com###sub-header
+
+
