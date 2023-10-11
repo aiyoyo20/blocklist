@@ -1,0 +1,3 @@
+[submodule "v2ray-rules-dat"]
+	path = v2ray-rules-dat
+	url = https://github.com/Loyalsoldier/v2ray-rules-dat.git
